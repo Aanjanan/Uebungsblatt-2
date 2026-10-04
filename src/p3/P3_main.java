@@ -6,7 +6,7 @@ public class P3_main {
 		// TODO Auto-generated method stub
 int i=1;
 int j=2;
-int k = 3;
+int k = 4;
 
 if (i<j)System.out.println("a");
 if(i<k)System.out.println("b");
